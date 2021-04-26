@@ -1,5 +1,5 @@
 import React from 'react'
-import MainHeader from './Main-header'
+import MainHeader from './MainHeader'
 function Layout(props) {
     return (
         <>
